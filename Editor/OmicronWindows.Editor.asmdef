@@ -1,0 +1,16 @@
+{
+    "name": "OmicronWindows.Editor",
+    "rootNamespace": "",
+    "references": [
+        "GUID:259b047f2410d8943a689da034b14b17"
+    ],
+    "includePlatforms": [],
+    "excludePlatforms": [],
+    "allowUnsafeCode": false,
+    "overrideReferences": false,
+    "precompiledReferences": [],
+    "autoReferenced": true,
+    "defineConstraints": [],
+    "versionDefines": [],
+    "noEngineReferences": false
+}
